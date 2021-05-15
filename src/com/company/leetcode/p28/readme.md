@@ -8,3 +8,6 @@ time give it a shot! I do think this problem is good to review if only to know t
 different runtimes for string matching, and your Anki card can help with that, even if you don't implement the 
 knuth-morris-pratt one b/c it's hard to implement (but if you have time maybe you can, just not making it a priority 
 right now).
+
+One key to doing KMP is to go back through the array, but not all the way back to the beginning, when there is a 
+character mismatch.
