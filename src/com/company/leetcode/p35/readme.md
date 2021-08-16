@@ -1,0 +1,1 @@
+This is just binary search. I know how to do it.

@@ -1,4 +1,4 @@
-[Link](https://leetcode.com/problems/minimize-deviation-in-array
+[Link](https://leetcode.com/problems/minimize-deviation-in-array)
 
 # My experiences
 ## End of February 2021
