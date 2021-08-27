@@ -1,0 +1,3 @@
+When I initially tried this, I didn't swap indices. I tried to just create the array from scratch...
+like I would start with an empty array and then insert index 0, insert index 1, etc.
+Turns out it's a lot easier to implement this by just swapping the indices and then doing a recursive thing.

@@ -22,6 +22,7 @@ class Solution {
         int startX = start[1];
         this.maze = maze;
         maze[destination[0]][destination[1]] = 3; // destination in maze == 3 now
+        return 0;
     }
 
     private int findShortestFromPosition(int x, int y) {
