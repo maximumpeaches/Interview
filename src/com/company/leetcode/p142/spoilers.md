@@ -1,0 +1,2 @@
+The comment on this discussion has a good formula for describing why this O(1) algorithm works:
+https://leetcode.com/problems/linked-list-cycle-ii/discuss/44781/Concise-O(n)-solution-by-using-C++-with-Detailed-Alogrithm-Description/219750

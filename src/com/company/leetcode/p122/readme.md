@@ -1,3 +1,6 @@
+There is an interesting solution #3 in the Solutions tab. Worth checking out (after you solve if you're practicing). 
+Not earth shattering but cool.
+
 # August 21 2021
 Solved very quickly because I'd solved it recently.
 

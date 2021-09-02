@@ -1,3 +1,6 @@
+# Sept 1st 2021
+I review conceptually.
+
 # August 21st 2021
 Read the solution, which was illuminating.
 
