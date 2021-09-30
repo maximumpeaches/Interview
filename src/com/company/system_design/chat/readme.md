@@ -1,0 +1,1 @@
+This package is dedicated to answering the question, "How would you design a chat service?"
