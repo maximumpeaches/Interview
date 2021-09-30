@@ -41,7 +41,9 @@ question to ask)
 - 489 on/after Sept 23
 - 729 on/after October 1st - good to practice implementation
 - 123 on/after Oct 5th. then try 188. (this whole series is interesting to review)
+- 871 on/after Oct 10 th just review conceptually
 - review 272 on/after Oct 15th
+
 - 523 Oct 20
 - 72 November 22nd
 - 981 November 20th
@@ -60,7 +62,5 @@ Review Collections.cop
 look at the answer.
 
 Problems from Curated Google List on Leetcode which I haven't done / I don't know the answer to:
-158
-Next Closest Time
-Missing Ranges
-Expressive Words
+- Missing Ranges
+- Expressive Words
