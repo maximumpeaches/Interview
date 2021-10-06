@@ -34,18 +34,41 @@ I didn't fully understand the decision to use a Key-Value store for messages. He
 • Relational databases do not handle long tail [3] of data well. When the indexes grow large, random access is expensive."
 I also don't understand how it intends to store the data inside the database. Like what format will it have?
 
-# The real Facebook Messenger
+# Real products
+## The real Facebook Messenger
 1) [Migrating Messenger storage to optimize performance](https://engineering.fb.com/2018/06/26/core-data/migrating-messenger-storage-to-optimize-performance/)
 2) [Building Mobile-First Infrastructure for Messenger](https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/)
-3) [High Scalability](http://highscalability.com/blog/2010/11/16/facebooks-new-real-time-messaging-system-hbase-to-store-135.html)
+3) [The Underlying Technology of Messages](https://engineering.fb.com/2010/11/15/core-data/the-underlying-technology-of-messages/)
 
-In #1 they describe breaking the monolithic messenger into three services, a read-through caching service for 
-queries, a message queue for writes (subscribers would be the storage service and devices that need to update the UI)
-, and a storage service which persists the message history.
+From #1, "The original monolithic service was separated into a read-through caching service for queries; Iris to queue 
+writes to subscribers (such as the storage service and devices); and a storage service to retain message history."
 
 In #2 they say they actually use an initial HTTPS request to get the full message history, then after that they use 
 MQTT to listen for updates (not WebSockets). I think the rationale is that MQTT is low bandwidth and low power 
 compared to WebSockets.
+
+In #2 they describe Iris, which is a queue that can have multiple subscribers. Subscribers are both user devices and
+the long term message storage service. Look at iris_demonstration.png in this folder to see an example of how it works.
+The cool thing about Iris is it can have multiple pointers, so the storage service can be full caught up on incoming
+messages, while if the user's device is offline, the pointer for it will remain behind, so that when the device comes
+back online it will get everything it has missed since then.
+
+For the storage service, Facebook writes in #3 that they tested MySQL, Cassandra and HBase. They found, 
+"MySQL proved to not handle the long tail of data well; as indexes and data sets grew 
+large, performance suffered. We found Cassandra’s eventual consistency model to be a difficult pattern to reconcile for 
+our new Messages infrastructure. HBase comes with very good scalability and performance for this workload and a simpler 
+consistency model than Cassandra." So at least one big reason is that MySQL doesn't handle big data loads like HBase
+does. HBase is designed on HDFS, so it's designed to handle big data. And I think tables grow huge in MySQL, because
+Messenger has so many messages to store, and that really slows down MySQL. You may find 
+[this link](http://highscalability.com/blog/2010/11/16/facebooks-new-real-time-messaging-system-hbase-to-store-135.html) 
+interesting, as it's about the same topic, but has some other info too.
+
+There is also [this talk](https://www.youtube.com/watch?v=5hUmdoMOrpo) which does look informative, but I haven't gone
+through it yet.
+
+## The real WhatsApp
+Not much is known about it. You can read a little [here](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html).
+
 
 
 

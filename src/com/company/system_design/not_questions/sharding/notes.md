@@ -1,0 +1,2 @@
+Facebook Messenger backend uses consistent hash ring for sharding with ZooKeeper. See,
+[https://engineering.fb.com/2011/04/12/core-data/scaling-the-messages-application-back-end/](https://engineering.fb.com/2011/04/12/core-data/scaling-the-messages-application-back-end/)

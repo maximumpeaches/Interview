@@ -36,7 +36,6 @@ question to ask)
 - 399 on/after Sept 21
 - 239 on/after Sept 21. Shoot for O(n) time complexity
 - p122 - review after/on Sept 21
-- 735 on/after Sept 25 great problem to practice
 - 252 on/after Sept 23 - try it to practice Java API
 - 489 on/after Sept 23
 - 729 on/after October 1st - good to practice implementation
@@ -60,6 +59,28 @@ walking through the whole thing at the end. This also seems easier for the inter
 Review Collections.cop
 - Remember to come up with space and time complexity when you do a problem, and then verify they are correct when you 
 look at the answer.
+- One really important thing to remember is that some companies, such as Facebook as of 2021, have pretty predictable
+interview questions. So you can just do everything tagged for that company. You can tell which companies are more pre-
+dictable in Leetcode because those questions will be asked a ton in the recent past. Dropbox is another company that's
+pretty predictable, and you can see on the Interview section of Dropbox's Glassdoor page recent questions.
+
+## Creating lists on Leetcode
+I tried to make a list of problems that I could then review while walking or something. My idea was to add all the
+problems with a Solution tab to the list. I looked at some automated ways to do this... 
+Beautiful Soup isn't a good option because it's more designed to just parse a webpage, not act on it. 
+I think it's possible to automate this with Selenium and Python. 
+I also looked at several "leetcode cli" projects on GitHub including [this one](https://github.com/skygragon/leetcode-cli)
+and [this one](https://github.com/realVEct0r/leetcode-api). I wasn't able to login to Leetcode using either, and I
+saw many people have the same issue. The reason is that Leetcode now uses Captcha, I think. There were some workarounds
+where you get the cookie using Chrome dev tools, but I also didn't get this to work. Maybe it's possible and how I was
+doing it wasn't successful, but I am not sure it's possible since I think I followed the instructions from other people
+who have solved it pretty closely.
+I think it's still a good idea to make a list of questions that you want to look at while walking, and maybe have lists
+for questions you think you need to implement. You may just find it easier to add these questions manually, although
+Selenium is still an option. The nice thing about adding them manually is you just add 100 problems in 10 minutes, and if
+you go through all 100 then you can add more, otherwise you didn't spend a bunch of time automating the process of adding
+1000 problems. I mean, you may not even use the list after all, and adding manually has much less up-front cost. If you
+end up using the list all the time then you can always automate it later.
 
 Problems from Curated Google List on Leetcode which I haven't done / I don't know the answer to:
 - Missing Ranges
