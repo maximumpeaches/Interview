@@ -3,7 +3,8 @@ That said, below are my tips on preparing for system design and algorithmic sect
 
 How to find good companies and apply:
 * With four years of experience and Amazon on my resume, applying immediately post-COVID when the job market is super hot,
-  I got a ton of interviews simply by applying on company's websites. I also got referrals where I could and some recruiters
+  I got a ton of interviews simply by applying on company's websites (sorry if this sounds conceited, I just mean it in a matter of fact way. It's mostly just luck anyways). 
+  I also got referrals where I could and some recruiters
   (like Google, Facebook, Microsoft and Salesforce) reached out to me through LinkedIn. I found other good companies to work
   for by looking at the top-paying companies on www.levels.fyi. The tech companies in the top 100 companies list by Glassdoor
   also had some good options, although most of those I already knew about. In the end I had more companies to interview with
