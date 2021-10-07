@@ -69,6 +69,8 @@ pretty predictable, and you can see on the Interview section of Dropbox's Glassd
 * "Problems with Solutions" list now has all the problems with Solutions numbered #1600 to #2030 (of course it's possible several more problems
   in this range have solutions added, though). It is current as of Oct 6th (so you can see updates on leetcode.com and 
   if new solutions were added since Oct 6th).
+* "Frequently asked Do Soon" includes yellow category of frequently asked from past 6 months at Google, past 6 months at
+  Microsoft, and past year at Snap Inc., last 6 months at LinkedIn.
 ### Creating the lists
 I tried to make a list of problems that I could then review while walking or something. My idea was to add all the
 problems with a Solution tab to the list. I looked at some automated ways to do this... 
