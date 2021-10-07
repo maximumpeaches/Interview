@@ -1,21 +1,6 @@
 I'm not an expert on preparing for interviews, and this list doesn't encapsulate everything I know. So it may not help you much.
 That said, below are my tips on preparing for system design and algorithmic sections of tech interviews.
 
-How to find good companies and apply:
-* I got a ton of interviews simply by applying on company's websites. This was also when the job market was red hot, sometime
-  after the covid vaccine came out, and demand was high, so I may have just gotten lucky in timing. I also got referrals where I could and some recruiters
-  (like Google, Facebook, Microsoft and Salesforce) reached out to me through LinkedIn. I found other good companies to work
-  for by looking at the top-paying companies on www.levels.fyi. The tech companies in the top 100 companies list by Glassdoor
-  also had some good options, although most of those I already knew about. In the end I had more companies to interview with
-  than I really needed, so I didn't have to find other ways to find interviews. I ignored mostly the random recruiters on LinkedIn,
-  especially when they didn't work directly for a company but worked for a recruiting agency.
-* I have a good video on how to write your resume for tech that I can share with you if you message me.
-* I looked up the work life balance ratings of companies on teamblind.com and the pay of companies on www.levels.fyi to
-  figure out if I wanted to interview with them.
-* It always helps to have multiple offers to negotiate a good deal. You can also just ask for more money and a lot of time they'll give
-  you an additional 7-12% just because you asked. Always ask for more by saying "I'll accept the offer if I can get X". 
-  Some companies (like Google) can't budge on offers without a higher offer from another company as rationale.
-
 How to prepare for algorithms:
 * One thing I think helps a lot is to review problems conceptually rather than implement everything. You can read a
   problem, then try to say out loud the algorithm, then check your answer. I did this with problems in Elements of Programming
@@ -52,3 +37,18 @@ How to prepare for system design:
   I think it would be cool to have a group of friends who all research system designs in the real world and then present
   (informally) what they find to each other. However researching how companies are built is slower than reading the resources
   I mentioned previously, so I would do it after reading those books and Grokking.
+
+How to find good companies and apply:
+* I got a ton of interviews simply by applying on company's websites. This was also when the job market was red hot, sometime
+  after the covid vaccine came out, and demand was high, so I may have just gotten lucky in timing. I also got referrals where I could and some recruiters
+  (like Google, Facebook, Microsoft and Salesforce) reached out to me through LinkedIn. I found other good companies to work
+  for by looking at the top-paying companies on www.levels.fyi. The tech companies in the top 100 companies list by Glassdoor
+  also had some good options, although most of those I already knew about. In the end I had more companies to interview with
+  than I really needed, so I didn't have to find other ways to find interviews. I ignored mostly the random recruiters on LinkedIn,
+  especially when they didn't work directly for a company but worked for a recruiting agency.
+* I have a good video on how to write your resume for tech that I can share with you if you message me.
+* I looked up the work life balance ratings of companies on teamblind.com and the pay of companies on www.levels.fyi to
+  figure out if I wanted to interview with them.
+* It always helps to have multiple offers to negotiate a good deal. You can also just ask for more money and a lot of time they'll give
+  you an additional 7-12% just because you asked. Always ask for more by saying "I'll accept the offer if I can get X".
+  Some companies (like Google) can't budge on offers without a higher offer from another company as rationale.
