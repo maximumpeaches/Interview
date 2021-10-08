@@ -1,0 +1,1 @@
+You can use HBase when you have a huge amount of 

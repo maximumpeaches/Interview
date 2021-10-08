@@ -11,8 +11,11 @@ How to prepare for algorithms:
   you schedule interviews with a company (or as soon as you know you will interview with some company) you should do the
   problems on Leetcode for that specific company, and not just do random problems from Leetcode any more until after your interview.
 * I like to walk while reviewing problems conceptually (or implementing them if I have a walking desk). I just like walking in general, and it makes me happy.
-* I took notes on which problems I did, and used lists feature on Leetcode to mark problems I want to practice or problems
-  I already mastered. I also took notes on system design books or websites I read.
+* You can take notes in Leetcode that will be saved to the cloud. You can also group questions into lists. I have a list "Done"
+  for questions I don't need to practice again, another list "Need Implement" to implement, another list, "Review Conceptually"
+  and so on. I also have notes for problems like "Look at the solution before implementing" or "try implementing in O(1) time"
+  or just if I implemented it successfully, "implemented quickly. no need to practice again." Anyways the notes and lists
+  features in Leetcode can help a lot.
 * It's really important to begin algorithmic questions by asking clarifying questions and then coming up with examples to clarify.
   This is something you don't necessarily get practice with using Leetcode, and I found interviewing.io useful for. I liked
   both the peer mock interviews and the paid mock interviews on interviewing.io (although they are pricey). [This Leetcode problem](https://leetcode.com/problems/powx-n/)
