@@ -5,14 +5,16 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class Solution {
+class Solution {
     private Map<Integer, Set<String>> m;
     private int longestChainLength = 0;
     private Map<String, Integer> memo = new HashMap<>();
     public int longestStrChain(String[] words) {
         m = new HashMap<>(words.length);
         for (String word : words) {
-            m.computeIfAbsent(word.length(), k -> new HashSet<>());
+            if (m.get(word.length()) == null) {
+                m.put(word.length(), new HashSet<>());
+            }
             m.get(word.length()).add(word);
         }
 
@@ -46,7 +48,7 @@ public class Solution {
         int sC = 0;
         int lC = 0;
         while (lC < l.length()) {
-            if (lC == s.length()) {
+            if (sC == s.length()) {
                 lC++;
                 mismatches++;
             } else if (s.charAt(sC) != l.charAt(lC)) {
