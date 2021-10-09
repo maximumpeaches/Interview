@@ -1,0 +1,2 @@
+According to Zucky, you can modify a file on computers so they accept more than ~70k connections, but
+also according to him "there's a reason that limit exists" and you really shouldn't increase it too much or you'll run into bad things.

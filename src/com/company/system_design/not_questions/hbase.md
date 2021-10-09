@@ -1,1 +1,2 @@
-You can use HBase when you have a huge amount of 
+pretty decent link https://docs.aws.amazon.com/whitepapers/latest/comparing-dynamodb-and-hbase-for-nosql/welcome.html
+

@@ -15,7 +15,8 @@ How to prepare for algorithms:
   for questions I don't need to practice again, another list "Need Implement" to implement, another list, "Review Conceptually"
   and so on. I also have notes for problems like "Look at the solution before implementing" or "try implementing in O(1) time"
   or just if I implemented it successfully, "implemented quickly. no need to practice again." Anyways the notes and lists
-  features in Leetcode can help a lot.
+  features in Leetcode can help a lot. Note however that Leetcode does not save your code to the cloud after you submit.
+  It only saves it locally in your browser. So if you want to save your code you need to save it elsewhere.
 * It's really important to begin algorithmic questions by asking clarifying questions and then coming up with examples to clarify.
   This is something you don't necessarily get practice with using Leetcode, and I found interviewing.io useful for. I liked
   both the peer mock interviews and the paid mock interviews on interviewing.io (although they are pricey). [This Leetcode problem](https://leetcode.com/problems/powx-n/)
@@ -25,6 +26,10 @@ How to prepare for algorithms:
   example, and write down the variables and update their state as you go along.
 * To be honest on Leetcode I don't clarify every problem before I begin, or debug by hand, because it would take too long.
   It seems to be okay, but I just have practiced that way a few times and would do so in a real interview.
+* When preparing for specific companies, be sure to access the list of questions for that company here: https://leetcode.com/company/google/
+  rather than by going to the main problemset page and selecting the Google tag like this: https://leetcode.com/problemset/all/?companySlugs=google&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D
+  The reason is that when you do the latter, the frequency ranking is frequency across all companies, whereas you want
+  the frequency across just the specific company you're preparing for. This is tricky so be careful!
 
 How to prepare for system design:
 * System design is actually pretty easy to prep for, even though people often make it sound challenging to prepare for.
