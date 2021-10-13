@@ -35,4 +35,4 @@ I'm not sure how useful it is.
 
 Helpful resources:
 * https://www.youtube.com/watch?v=VYuToviSx5Q
-* 
+* Leetcode has some system design question & answers https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=
