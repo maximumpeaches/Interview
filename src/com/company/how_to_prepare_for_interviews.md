@@ -30,6 +30,24 @@ How to prepare for algorithms:
   rather than by going to the main problemset page and selecting the Google tag like this: https://leetcode.com/problemset/all/?companySlugs=google&page=1&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D
   The reason is that when you do the latter, the frequency ranking is frequency across all companies, whereas you want
   the frequency across just the specific company you're preparing for. This is tricky so be careful!
+* I didn't pass my Facebook phone screen. I got the optimal solution, but I made one or two small mistakes. In my binary search
+  I had lower < higher rather than lower <= higher. I don't know why I was rejected but this may have been why, since it's the
+  only flaw in my solution really. We had time for some verbal follow up afterwards, too.
+  My point in bringing this up is that I think there are a couple goals in an interview. One is to come up with an optimal solution.
+  The other is to flush out all the edge cases, and point out any potential problems like int overflow or stack overflow.
+  The other goal is to test enough inputs that you make sure there are no bugs at all in your code. Sometimes the interviewer
+  will not point out if you miss a test case, or if you have a bug. They may act like everything is fine, and that can throw you off.
+  However it's important to be rigorous, and kind of cold hearted about the whole thing and not trust your interviewer.
+  Anyways, I can say with confidence that one goal is to make sure you have no bugs. The right idea is important but you
+  should also have good manual testing skills.
+  Along this line of thinking I think it's better to do a couple medium leetcode problems rather than a lot, and the couple
+  medium problems you do, you should thoroughly do them. Come up with example inputs and test them manually, and make sure
+  there are no bugs. I think it's good to do some problems like this, especially in the days leading up to interviews,
+  in order to get in the habit of manually debugging your code and thinking through different edge cases and inputs. Implementing
+  a lot of medium level problems is not important when you get to the point where you understand how to do most medium level problems. 
+  It is more effective to just do a small amount with good form, and then solve Medium or Hard problems conceptually without implementing.
+  At least hopefully you get my gist, that it's good to practice some Medium problems with good form. That's all Facebook and
+  several other companies really ask anyways is just Medium, but they want to see very good form.
 
 How to prepare for system design:
 * System design is actually pretty easy to prep for, even though people often make it sound challenging to prepare for.
