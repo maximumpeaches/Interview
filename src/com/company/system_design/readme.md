@@ -30,10 +30,24 @@ Notes:
 * There is another System Design Interview book you can find on gen.lib.rus.ec if you search "System Design Interview".
 I'm not sure how useful it is.
 * Advanced Grokking looks useful https://www.educative.io/courses/grokking-adv-system-design-intvw
-
+* Creating a basic API is important, like in this video: [Amazon System Design Preparation (SIP)](https://youtu.be/gf8R7sgme6o) before system design interview. That video@was good overview@of whays expected. Also need to practice writing out the dayabase
+  Getting hands-on practice creating this kind of API would be ideal.
+* Practicing coming up with size estimates is one of the simplest ways to improve your system design skill. I faltered
+  often in interviews where I just didn't know how to estimate the size of a 100 character string or something easy like that.
+* Pramp has system design questions. They're not ideal, obviously, since they're only 30 minutes with a junior engineer, but still.
 
 
 Helpful resources:
 * https://www.youtube.com/watch?v=VYuToviSx5Q
 * Leetcode has some system design question & answers https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=
 * this looks useful, but I haven't looked through it. It was popular on Hackernews: https://www.notion.so/blog/sharding-postgres-at-notion
+* If you want to find some good design questions for practice, you can always look at Glassdoor Interviews for a specific company,
+  or at Leetcode forum, to see what kinds of questions companies are asking.
+* I created [this playlist of System Design videos (most of real companies / products) on YouTube](https://www.youtube.com/playlist?list=PLBKfy-EgQMy3qe-QdcUe7rXwwYTeo2TjQ)
+* I have a similar [playlist of System Design videos I've already watched](https://www.youtube.com/playlist?list=PLBKfy-EgQMy3qe-QdcUe7rXwwYTeo2TjQ).
+
+Here are the resources Microsoft shares for candidates who are interviewing to prepare for system design:
+* https://www.youtube.com/watch?v=tndzLznxq40
+* https://www.youtube.com/watch?v=CtmBGH8MkX4&t=224s
+* https://github.com/checkcheckzz/system-design-interview
+* https://github.com/donnemartin/system-design-primer

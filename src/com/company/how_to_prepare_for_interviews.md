@@ -78,3 +78,10 @@ How to find good companies and apply:
 * It always helps to have multiple offers to negotiate a good deal. You can also just ask for more money and a lot of time they'll give
   you an additional 7-12% just because you asked. Always ask for more by saying "I'll accept the offer if I can get X".
   Some companies (like Google) can't budge on offers without a higher offer from another company as rationale.
+
+
+I think this story is how interview process often goes https://www.facebook.com/BlindApp/photos/a.1623553977866705/3151196595102428/?type=3 not all good news, but ya only need one good match
+
+I think generally I couldve done better if Id gone for walks before my interviews. I made some mistakes which I think were largely attributable to being stressed. I scheduled all day interviews back to back, so I didn’t have time to relax in between, and I didn’t have time to walk before them. Walking makes a big difference in my stress levels and I should do it every day, but especially before something stressful like interviews.
+
+Before this round of interviews I didn’t realize how stressful interviews are. You have a lot on the line, you’re being judged, and you have a timed challenging problem to solve. On top of that you sometimes get interviewers who just suck somehow, interrupting you, and you get rejected which doesnt feel great.

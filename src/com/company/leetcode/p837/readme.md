@@ -1,0 +1,1 @@
+Leetcode 837 I came up with soln. I think it works. But its different than the soln in Discuss tab because I dont divide. I think lower priority is try again and either look first ag their soln and implement their soln and try to understand, or dont look at their soln and come up with one of your own and try to implement and see if it works.

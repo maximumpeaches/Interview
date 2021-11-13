@@ -3,6 +3,7 @@ Below is a list of problems from Leetcode or topics which I'd like to review. Mo
 which means I should come back to them not before, and ideally at, that date (I leave a date in the future so I am 
 taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distributed_practice)).
 
+- 560 really good to practice
 - [Segment tree](https://leetcode.com/tag/segment-tree/) actually has a number of problems related to it.
 - need to figure out how to construct union-find data structure. To do so see: https://leetcode.com/tag/union-find/
 - after/on Aug 31 do other LCA of binary tree problems. One every other day or so. After you've done them a couple 
@@ -42,6 +43,8 @@ question to ask)
 - 123 on/after Oct 5th. then try 188. (this whole series is interesting to review)
 - 871 on/after Oct 10 th just review conceptually
 - review 272 on/after Oct 15th
+- Leetcide 299 is good to review
+- Leetcode 1548 I came up with soln I think should work but this kind of problem is good for dp implementation practice sometime too.
 
 - 523 Oct 20
 - 72 November 22nd
@@ -63,6 +66,7 @@ look at the answer.
 interview questions. So you can just do everything tagged for that company. You can tell which companies are more pre-
 dictable in Leetcode because those questions will be asked a ton in the recent past. Dropbox is another company that's
 pretty predictable, and you can see on the Interview section of Dropbox's Glassdoor page recent questions.
+- arrays can often be used in place of Java's HashMap, and you can see [here](https://github.com/vavr-io/vavr/issues/571) how HashMaps are often slow
 
 ## Leetcode lists
 ### List descriptions
