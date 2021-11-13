@@ -1,0 +1,812 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+Subject: =?utf-8?Q?Primitive=20Data=20Types=20(The=20Java=E2=84=A2=20Tutorials=20>?=
+ =?utf-8?Q?=20Learning=20the=20Java=20Language=20>=20Language=20Basics)?=
+Date: Thu, 4 Nov 2021 19:34:14 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--N1AXX6FN78eH4S5HPUCXwmHktWoXZX3JkAtJn8x9aA----"
+
+
+------MultipartBoundary--N1AXX6FN78eH4S5HPUCXwmHktWoXZX3JkAtJn8x9aA----
+Content-Type: text/html
+Content-ID: <frame-AC972F8064F7C4C8D13E9EDF24C611FC@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+<!--?xml version=3D"1.0" encoding=3D"utf-8"?--><!DOCTYPE html PUBLIC "-//W3=
+C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-=
+transitional.dtd"><html lang=3D"en-US" xmlns=3D"http://www.w3.org/1999/xhtm=
+l"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0053c2f9-=
+d58b-4af4-a2d4-8df579c07292@mhtml.blink" />
+        <title>Primitive Data Types (The Java=E2=84=A2 Tutorials &gt;      =
+ =20
+            Learning the Java Language &gt; Language Basics)
+</title>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+     <meta name=3D"description" content=3D"This beginner Java tutorial desc=
+ribes fundamentals of programming in the Java programming language">
+     <meta name=3D"keywords" content=3D"java programming, learn java, java =
+sample code, java objects, java classes, java inheritance, interfaces, vari=
+ables, arrays, data types, operators, control flow, number, string, package=
+, expression, statement, block, enum, annotation, character, generics">
+       =20
+
+
+
+
+    </head>
+<body>
+   =20
+        <!-- header -->
+    <div class=3D"header-container">
+        <div class=3D"bookwrapper  clearfix">      =20
+            <div id=3D"brandProdName">
+                <div id=3D"logocover"></div>
+                <div id=3D"productName">Documentation</div>
+            </div>=20
+            <br class=3D"clearfloat">
+        </div>
+    </div>
+   =20
+    <div id=3D"TopBar">
+        <div id=3D"TopBar_tr">
+            <div id=3D"TopBar_tl">
+                <div id=3D"TopBar_br"> <div id=3D"TopBar_bl">=20
+                    <div id=3D"TopBar_left">The Java=E2=84=A2 Tutorials</di=
+v>
+                        <div id=3D"TopBar_right">=20
+                            <!--
+                            <a href=3D"URL" target=3D"_blank">External Link=
+</a><br/>
+                            -->
+
+<form id=3D"searchForm"><label for=3D"searchField"><input type=3D"text" id=
+=3D"searchField" size=3D"30"></label><input type=3D"submit" value=3D"Search=
+"></form>
+             =20
+                            <a id=3D"ToggleLeft">Hide TOC</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id=3D"LeftBar" class=3D"LeftBar_shown">
+        <div id=3D"Contents">
+            <div class=3D"linkLESSON"><a href=3D"https://docs.oracle.com/ja=
+vase/tutorial/java/nutsandbolts/index.html">Language Basics</a></div>
+<div class=3D"linkAHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/variables.html">Variables</a></div>
+<div class=3D"nolinkBHEAD">Primitive Data Types</div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/arrays.html">Arrays</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/variablesummary.html">Summary of Variables</a></div>
+<div class=3D"linkQUESTIONS"><a href=3D"https://docs.oracle.com/javase/tuto=
+rial/java/nutsandbolts/QandE/questions_variables.html">Questions and Exerci=
+ses</a></div>
+<div class=3D"linkAHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/operators.html">Operators</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/op1.html">Assignment, Arithmetic, and Unary Operators</a=
+></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/op2.html">Equality, Relational, and Conditional Operator=
+s </a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/op3.html">Bitwise and Bit Shift Operators</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/opsummary.html">Summary of Operators</a></div>
+<div class=3D"linkQUESTIONS"><a href=3D"https://docs.oracle.com/javase/tuto=
+rial/java/nutsandbolts/QandE/questions_operators.html">Questions and Exerci=
+ses</a></div>
+<div class=3D"linkAHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/expressions.html">Expressions, Statements, and Blocks</a=
+></div>
+<div class=3D"linkQUESTIONS"><a href=3D"https://docs.oracle.com/javase/tuto=
+rial/java/nutsandbolts/QandE/questions_expressions.html">Questions and Exer=
+cises</a></div>
+<div class=3D"linkAHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/flow.html">Control Flow Statements</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/if.html">The if-then and if-then-else Statements</a></di=
+v>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/switch.html">The switch Statement</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/while.html">The while and do-while Statements</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/for.html">The for Statement</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/branch.html">Branching Statements</a></div>
+<div class=3D"linkBHEAD"><a href=3D"https://docs.oracle.com/javase/tutorial=
+/java/nutsandbolts/flowsummary.html">Summary of Control Flow Statements</a>=
+</div>
+<div class=3D"linkQUESTIONS"><a href=3D"https://docs.oracle.com/javase/tuto=
+rial/java/nutsandbolts/QandE/questions_flow.html">Questions and Exercises</=
+a></div>
+</div>
+    </div>
+    <div id=3D"MainFlow" class=3D"MainFlow_indented">
+    <div class=3D"PrintHeaders">
+        <b>Trail:</b> Learning the Java Language
+        <br><b>Lesson:</b> Language Basics
+        <br><b>Section:</b> Variables
+    </div>
+            <div id=3D"BreadCrumbs">
+                <a href=3D"https://docs.oracle.com/javase/tutorial/index.ht=
+ml" target=3D"_top">Home Page</a>
+                &gt;
+                <a href=3D"https://docs.oracle.com/javase/tutorial/java/ind=
+ex.html" target=3D"_top">Learning the Java Language</a>
+                &gt;
+                <a href=3D"https://docs.oracle.com/javase/tutorial/java/nut=
+sandbolts/index.html" target=3D"_top">Language Basics</a>
+            </div>
+            <div class=3D"NavBit">
+                <a target=3D"_top" href=3D"https://docs.oracle.com/javase/t=
+utorial/java/nutsandbolts/variables.html">=C2=AB&nbsp;Previous</a>&nbsp;=E2=
+=80=A2&nbsp;<a target=3D"_top" href=3D"https://docs.oracle.com/javase/tutor=
+ial/java/TOC.html">Trail</a>&nbsp;=E2=80=A2&nbsp;<a target=3D"_top" href=3D=
+"https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html">Nex=
+t&nbsp;=C2=BB</a>
+            </div>
+            <div class=3D"Banner"><p style=3D"background-color: rgb(247, 24=
+8, 249); border-width: 1px; padding: 10px; font-style: italic; border-style=
+: solid; border-color: rgb(64, 74, 91);">The Java Tutorials have been writt=
+en for JDK 8. Examples and practices described in this page don't take adva=
+ntage of improvements introduced in later releases and might use technology=
+ no longer available.<br>See <a href=3D"https://docs.oracle.com/pls/topic/l=
+ookup?ctx=3Den/java/javase&amp;id=3Djava_language_changes">Java Language Ch=
+anges</a> for a summary of updated language features in Java SE 9 and subse=
+quent releases.<br>See <a href=3D"https://www.oracle.com/technetwork/java/j=
+avase/jdk-relnotes-index-2162236.html">JDK Release Notes</a> for informatio=
+n about new features, enhancements, and removed or deprecated options for a=
+ll JDK releases.</p></div>
+            <div id=3D"PageTitle"><h1>Primitive Data Types</h1></div>
+            <div id=3D"PageContent">
+
+<p>The Java programming language is statically-typed, which means that all =
+variables must first be declared before they can be used. This involves sta=
+ting the variable's type and name, as you've already seen:</p>
+<div class=3D"codeblock"><pre>int gear =3D 1;
+</pre></div>
+<p>Doing so tells your program that a field named "gear" exists, holds nume=
+rical data, and has an initial value of "1". A variable's data type determi=
+nes the values it may contain, plus the operations that may be performed on=
+ it. In addition to <code>int</code>, the Java programming language support=
+s seven other <i>primitive data types</i>. A primitive type is predefined b=
+y the language and is named by a reserved keyword. Primitive values do not =
+share state with other primitive values. The eight primitive data types sup=
+ported by the Java programming language are:</p>
+<ul>
+<li>
+<p><strong>byte</strong>: The <code>byte</code> data type is an 8-bit signe=
+d two's complement integer. It has a minimum value of -128 and a maximum va=
+lue of 127 (inclusive). The <code>byte</code> data type can be useful for s=
+aving memory in large=20
+<a class=3D"TutorialLink" target=3D"_top" href=3D"https://docs.oracle.com/j=
+avase/tutorial/java/nutsandbolts/arrays.html">arrays</a>, where the memory =
+savings actually matters. They can also be used in place of <code>int</code=
+> where their limits help to clarify your code; the fact that a variable's =
+range is limited can serve as a form of documentation.</p>
+</li>
+<li>
+<p><strong>short</strong>: The <code>short</code> data type is a 16-bit sig=
+ned two's complement integer. It has a minimum value of -32,768 and a maxim=
+um value of 32,767 (inclusive). As with <code>byte</code>, the same guideli=
+nes apply: you can use a <code>short</code> to save memory in large arrays,=
+ in situations where the memory savings actually matters.</p>
+</li>
+<li>
+<p><strong>int</strong>: By default, the <code>int</code> data type is a 32=
+-bit signed two's complement integer, which has a minimum value of -2<sup>3=
+1</sup> and a maximum value of 2<sup>31</sup>-1. In Java SE 8 and later, yo=
+u can use the <code>int</code> data type to represent an unsigned 32-bit in=
+teger, which has a minimum value of 0 and a maximum value of 2<sup>32</sup>=
+-1. Use the Integer class to use <code>int</code> data type as an unsigned =
+integer. See the section The Number Classes for more information. Static me=
+thods like <code>compareUnsigned</code>, <code>divideUnsigned</code> etc ha=
+ve been added to the=20
+<a class=3D"OutsideLink" target=3D"_blank" href=3D"https://docs.oracle.com/=
+javase/8/docs/api/java/lang/Integer.html"><code>Integer</code></a> class to=
+ support the arithmetic operations for unsigned integers.</p>
+</li>
+<li>
+<p><strong>long</strong>: The <code>long</code> data type is a 64-bit two's=
+ complement integer. The signed long has a minimum value of -2<sup>63</sup>=
+ and a maximum value of 2<sup>63</sup>-1. In Java SE 8 and later, you can u=
+se the <code>long</code> data type to represent an unsigned 64-bit long, wh=
+ich has a minimum value of 0 and a maximum value of 2<sup>64</sup>-1. Use t=
+his data type when you need a range of values wider than those provided by =
+<code>int</code>. The=20
+<a class=3D"OutsideLink" target=3D"_blank" href=3D"https://docs.oracle.com/=
+javase/8/docs/api/java/lang/Long.html"><code>Long</code></a> class also con=
+tains methods like <code>compareUnsigned</code>, <code>divideUnsigned</code=
+> etc to support arithmetic operations for unsigned long.</p>
+</li>
+<li>
+<p><strong>float</strong>: The <code>float</code> data type is a single-pre=
+cision 32-bit IEEE 754 floating point. Its range of values is beyond the sc=
+ope of this discussion, but is specified in the
+<a class=3D"OutsideLink" target=3D"_blank" href=3D"https://docs.oracle.com/=
+javase/specs/jls/se7/html/jls-4.html#jls-4.2.3">Floating-Point Types, Forma=
+ts, and Values</a> section of the Java Language Specification. As with the =
+recommendations for <code>byte</code> and <code>short</code>, use a <code>f=
+loat</code> (instead of <code>double</code>) if you need to save memory in =
+large arrays of floating point numbers. This data type should never be used=
+ for precise values, such as currency. For that, you will need to use the=
+=20
+<a class=3D"APILink" target=3D"_blank" href=3D"https://docs.oracle.com/java=
+se/8/docs/api/java/math/BigDecimal.html">java.math.BigDecimal</a> class ins=
+tead.=20
+<a class=3D"TutorialLink" target=3D"_top" href=3D"https://docs.oracle.com/j=
+avase/tutorial/java/data/index.html">Numbers and Strings</a> covers <code>B=
+igDecimal</code> and other useful classes provided by the Java platform.</p=
+>
+</li>
+<li>
+<p><strong>double</strong>: The <code>double</code> data type is a double-p=
+recision 64-bit IEEE 754 floating point. Its range of values is beyond the =
+scope of this discussion, but is specified in the
+<a class=3D"OutsideLink" target=3D"_blank" href=3D"https://docs.oracle.com/=
+javase/specs/jls/se7/html/jls-4.html#jls-4.2.3">Floating-Point Types, Forma=
+ts, and Values</a> section of the Java Language Specification. For decimal =
+values, this data type is generally the default choice. As mentioned above,=
+ this data type should never be used for precise values, such as currency.<=
+/p>
+</li>
+<li>
+<p><strong>boolean</strong>: The <code>boolean</code> data type has only tw=
+o possible values: <code>true</code> and <code>false</code>. Use this data =
+type for simple flags that track true/false conditions. This data type repr=
+esents one bit of information, but its "size" isn't something that's precis=
+ely defined.</p>
+</li>
+<li>
+<p><strong>char</strong>: The <code>char</code> data type is a single 16-bi=
+t Unicode character. It has a minimum value of <code>'\u0000'</code> (or 0)=
+ and a maximum value of <code>'\uffff'</code> (or 65,535 inclusive).</p>
+</li>
+</ul>
+<p>In addition to the eight primitive data types listed above, the Java pro=
+gramming language also provides special support for character strings via t=
+he=20
+<a class=3D"APILink" target=3D"_blank" href=3D"https://docs.oracle.com/java=
+se/8/docs/api/java/lang/String.html">java.lang.String</a> class. Enclosing =
+your character string within double quotes will automatically create a new =
+<code>String</code> object; for example, <code>String s =3D "this is a stri=
+ng";</code>. <code>String</code> objects are <i>immutable</i>, which means =
+that once created, their values cannot be changed. The <code>String</code> =
+class is not technically a primitive data type, but considering the special=
+ support given to it by the language, you'll probably tend to think of it a=
+s such. You'll learn more about the <code>String</code> class in=20
+<a class=3D"TutorialLink" target=3D"_top" href=3D"https://docs.oracle.com/j=
+avase/tutorial/java/data/index.html">Simple Data Objects</a></p>
+<h2>Default Values</h2>
+<p>It's not always necessary to assign a value when a field is declared. Fi=
+elds that are declared but not initialized will be set to a reasonable defa=
+ult by the compiler. Generally speaking, this default will be zero or <code=
+>null</code>, depending on the data type. Relying on such default values, h=
+owever, is generally considered bad programming style.</p>
+<p>The following chart summarizes the default values for the above data typ=
+es.</p>
+<table border=3D"1" summary=3D"Default values for primitive types">
+<tbody><tr>
+<th id=3D"h1" align=3D"left"><strong>Data Type</strong></th>
+<th id=3D"h2" align=3D"left"><strong>Default Value (for fields)</strong></t=
+h>
+</tr>
+<tr>
+<td headers=3D"h1">byte</td>
+<td headers=3D"h2">0</td>
+</tr>
+<tr>
+<td headers=3D"h1">short</td>
+<td headers=3D"h2">0</td>
+</tr>
+<tr>
+<td headers=3D"h1">int</td>
+<td headers=3D"h2">0</td>
+</tr>
+<tr>
+<td headers=3D"h1">long</td>
+<td headers=3D"h2">0L</td>
+</tr>
+<tr>
+<td headers=3D"h1">float</td>
+<td headers=3D"h2">0.0f</td>
+</tr>
+<tr>
+<td headers=3D"h1">double</td>
+<td headers=3D"h2">0.0d</td>
+</tr>
+<tr>
+<td headers=3D"h1">char</td>
+<td headers=3D"h2">'\u0000'</td>
+</tr>
+<tr>
+<td headers=3D"h1">String (or any object) &nbsp;</td>
+<td headers=3D"h2">null</td>
+</tr>
+<tr>
+<td headers=3D"h1">boolean</td>
+<td headers=3D"h2">false</td>
+</tr>
+</tbody></table>
+<br>
+<p>Local variables are slightly different; the compiler never assigns a def=
+ault value to an uninitialized local variable. If you cannot initialize you=
+r local variable where it is declared, make sure to assign it a value befor=
+e you attempt to use it. Accessing an uninitialized local variable will res=
+ult in a compile-time error.</p>
+<h3>Literals</h3>
+<p>You may have noticed that the <code>new</code> keyword isn't used when i=
+nitializing a variable of a primitive type. Primitive types are special dat=
+a types built into the language; they are not objects created from a class.=
+ A <em>literal</em> is the source code representation of a fixed value; lit=
+erals are represented directly in your code without requiring computation. =
+As shown below, it's possible to assign a literal to a variable of a primit=
+ive type:</p>
+<div class=3D"codeblock"><pre>boolean result =3D true;
+char capitalC =3D 'C';
+byte b =3D 100;
+short s =3D 10000;
+int i =3D 100000;
+</pre></div>
+<h4>Integer Literals</h4>
+<p>An integer literal is of type <code>long</code> if it ends with the lett=
+er <code>L</code> or <code>l</code>; otherwise it is of type <code>int</cod=
+e>. It is recommended that you use the upper case letter <code>L</code> bec=
+ause the lower case letter <code>l</code> is hard to distinguish from the d=
+igit <code>1</code>.</p>
+<p>Values of the integral types <code>byte</code>, <code>short</code>, <cod=
+e>int</code>, and <code>long</code> can be created from <code>int</code> li=
+terals. Values of type <code>long</code> that exceed the range of <code>int=
+</code> can be created from <code>long</code> literals. Integer literals ca=
+n be expressed by these number systems:</p>
+<ul>
+<li>Decimal: Base 10, whose digits consists of the numbers 0 through 9; thi=
+s is the number system you use every day</li>
+<li>Hexadecimal: Base 16, whose digits consist of the numbers 0 through 9 a=
+nd the letters A through F</li>
+<li>Binary: Base 2, whose digits consists of the numbers 0 and 1 (you can c=
+reate binary literals in Java SE 7 and later)</li>
+</ul>
+<p>For general-purpose programming, the decimal system is likely to be the =
+only number system you'll ever use. However, if you need to use another num=
+ber system, the following example shows the correct syntax. The prefix <cod=
+e>0x</code> indicates hexadecimal and <code>0b</code> indicates binary:</p>
+<div class=3D"codeblock"><pre>// The number 26, in decimal
+int decVal =3D 26;
+//  The number 26, in hexadecimal
+int hexVal =3D 0x1a;
+// The number 26, in binary
+int binVal =3D 0b11010;
+</pre></div>
+<h4>Floating-Point Literals</h4>
+<p>A floating-point literal is of type <code>float</code> if it ends with t=
+he letter <code>F</code> or <code>f</code>; otherwise its type is <code>dou=
+ble</code> and it can optionally end with the letter <code>D</code> or <cod=
+e>d</code>.</p>
+<p>The floating point types (<code>float</code> and <code>double</code>) ca=
+n also be expressed using E or e (for scientific notation), F or f (32-bit =
+float literal) and D or d (64-bit double literal; this is the default and b=
+y convention is omitted).</p>
+<div class=3D"codeblock"><pre>double d1 =3D 123.4;
+// same value as d1, but in scientific notation
+double d2 =3D 1.234e2;
+float f1  =3D 123.4f;
+</pre></div>
+<h4>Character and String Literals</h4>
+<p>Literals of types <code>char</code> and <code>String</code> may contain =
+any Unicode (UTF-16) characters. If your editor and file system allow it, y=
+ou can use such characters directly in your code. If not, you can use a "Un=
+icode escape" such as <code>'\u0108'</code> (capital C with circumflex), or=
+ <code>"S\u00ED Se\u00F1or"</code> (S=C3=AD Se=C3=B1or in Spanish). Always =
+use 'single quotes' for <code>char</code> literals and "double quotes" for =
+<code>String</code> literals. Unicode escape sequences may be used elsewher=
+e in a program (such as in field names, for example), not just in <code>cha=
+r</code> or <code>String</code> literals.</p>
+<p>The Java programming language also supports a few special escape sequenc=
+es for <code>char</code> and <code>String</code> literals: <code>\b</code> =
+(backspace), <code>\t</code> (tab), <code>\n</code> (line feed), <code>\f</=
+code> (form feed), <code>\r</code> (carriage return), <code>\"</code> (doub=
+le quote), <code>\'</code> (single quote), and <code>\\</code> (backslash).=
+</p>
+<p>There's also a special <code>null</code> literal that can be used as a v=
+alue for any reference type. <code>null</code> may be assigned to any varia=
+ble, except variables of primitive types. There's little you can do with a =
+<code>null</code> value beyond testing for its presence. Therefore, <code>n=
+ull</code> is often used in programs as a marker to indicate that some obje=
+ct is unavailable.</p>
+<p>Finally, there's also a special kind of literal called a <em>class liter=
+al</em>, formed by taking a type name and appending "<code>.class"</code>; =
+for example, <code>String.class</code>. This refers to the object (of type =
+<code>Class</code>) that represents the type itself.</p>
+<h2>Using Underscore Characters in Numeric Literals</h2>
+<p>In Java SE 7 and later, any number of underscore characters (<code>_</co=
+de>) can appear anywhere between digits in a numerical literal. This featur=
+e enables you, for example. to separate groups of digits in numeric literal=
+s, which can improve the readability of your code.</p>
+<p>For instance, if your code contains numbers with many digits, you can us=
+e an underscore character to separate digits in groups of three, similar to=
+ how you would use a punctuation mark like a comma, or a space, as a separa=
+tor.</p>
+<p>The following example shows other ways you can use the underscore in num=
+eric literals:</p>
+<div class=3D"codeblock"><pre>long creditCardNumber =3D 1234_5678_9012_3456=
+L;
+long socialSecurityNumber =3D 999_99_9999L;
+float pi =3D  3.14_15F;
+long hexBytes =3D 0xFF_EC_DE_5E;
+long hexWords =3D 0xCAFE_BABE;
+long maxLong =3D 0x7fff_ffff_ffff_ffffL;
+byte nybbles =3D 0b0010_0101;
+long bytes =3D 0b11010010_01101001_10010100_10010010;
+</pre></div>
+<p>You can place underscores only between digits; you cannot place undersco=
+res in the following places:</p>
+<ul>
+<li>At the beginning or end of a number</li>
+<li>Adjacent to a decimal point in a floating point literal</li>
+<li>Prior to an <code>F</code> or <code>L</code> suffix</li>
+<li>In positions where a string of digits is expected</li>
+</ul>
+<p>The following examples demonstrate valid and invalid underscore placemen=
+ts (which are highlighted) in numeric literals:</p>
+<div class=3D"codeblock"><pre>// <strong>Invalid: cannot put underscores</s=
+trong>
+// <strong>adjacent to a decimal point</strong>
+float pi1 =3D 3_.1415F;
+// <strong>Invalid: cannot put underscores</strong>=20
+// <strong>adjacent to a decimal point</strong>
+float pi2 =3D 3._1415F;
+// <strong>Invalid: cannot put underscores</strong>=20
+// <strong>prior to an L suffix</strong>
+long socialSecurityNumber1 =3D 999_99_9999_L;
+
+// OK (decimal literal)
+int x1 =3D 5_2;
+// <strong>Invalid: cannot put underscores</strong>
+// <strong>At the end of a literal</strong>
+int x2 =3D 52_;
+// OK (decimal literal)
+int x3 =3D 5_______2;
+
+// <strong>Invalid: cannot put underscores</strong>
+// <strong>in the 0x radix prefix</strong>
+int x4 =3D 0_x52;
+// <strong>Invalid: cannot put underscores</strong>
+// <strong>at the beginning of a number</strong>
+int x5 =3D 0x_52;
+// OK (hexadecimal literal)
+int x6 =3D 0x5_2;=20
+// <strong>Invalid: cannot put underscores</strong>
+// <strong>at the end of a number</strong>
+int x7 =3D 0x52_;
+</pre></div>
+
+        </div>
+        <div class=3D"NavBit">
+            <a target=3D"_top" href=3D"https://docs.oracle.com/javase/tutor=
+ial/java/nutsandbolts/variables.html">=C2=AB Previous</a>
+            =E2=80=A2
+            <a target=3D"_top" href=3D"https://docs.oracle.com/javase/tutor=
+ial/java/TOC.html">Trail</a>
+            =E2=80=A2
+            <a target=3D"_top" href=3D"https://docs.oracle.com/javase/tutor=
+ial/java/nutsandbolts/arrays.html">Next =C2=BB</a>
+        </div>
+    </div>
+   =20
+<hr class=3D"clearfloat">
+
+<div id=3D"Footer">
+
+<p class=3D"footertext">
+<a href=3D"http://www.oracle.com/corporate/index.html">About Oracle</a> |=
+=20
+<a href=3D"http://www.oracle.com/us/corporate/contact/index.html">Contact U=
+s</a> |
+<a href=3D"http://www.oracle.com/us/legal/index.html">Legal Notices</a> |=
+=20
+<a href=3D"http://www.oracle.com/us/legal/terms/index.html">Terms of Use</a=
+> |
+<a href=3D"http://www.oracle.com/us/legal/privacy/index.html">Your Privacy =
+Rights</a></p>
+
+<p class=3D"footertext"><a href=3D"http://www.oracle.com/pls/topic/lookup?c=
+tx=3Dcpyr&amp;id=3Den-US">
+Copyright =C2=A9 1995, 2021 Oracle and/or its affiliates. All rights reserv=
+ed.</a></p>
+      =20
+</div>   =20
+    <div class=3D"PrintHeaders">
+        <b>Previous page:</b> Variables
+        <br><b>Next page:</b> Arrays
+    </div>
+<!-- Start SiteCatalyst code -->
+</body></html>
+------MultipartBoundary--N1AXX6FN78eH4S5HPUCXwmHktWoXZX3JkAtJn8x9aA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-0053c2f9-d58b-4af4-a2d4-8df579c07292@mhtml.blink
+
+@charset "utf-8";
+
+body { margin-left: 10px; margin-right: 10px; line-height: 1.5; font-family=
+: Arial, Helvetica, sans-serif; font-size: 0.8em; }
+
+a:link { text-decoration: none; color: rgb(9, 86, 157); }
+
+a:visited { text-decoration: none; color: rgb(58, 135, 207); }
+
+a:hover { text-decoration: underline; }
+
+code { font-family: Monaco, Courier, "Courier New"; }
+
+.header-container { background-color: rgb(255, 255, 255); border-bottom: 1p=
+x solid rgb(193, 207, 218); box-shadow: rgba(117, 163, 231, 0.1) 0px 2px 2p=
+x; }
+
+.bookwrapper { width: auto; margin: auto; }
+
+.clearfix { }
+
+.clearfloat { clear: both; overflow: auto; height: 0px; font-size: 1px; lin=
+e-height: 0px; }
+
+#brandProdName { width: auto; height: auto; }
+
+#logocover { display: block; background: url("../../images/oracle-java-logo=
+.png") 0px 0px no-repeat transparent; height: 50px; width: 229px; float: le=
+ft; }
+
+#productName { font-size: 16px; position: relative; top: 19px; padding-left=
+: 3px; color: rgb(69, 119, 152); white-space: nowrap; width: 340px; }
+
+.FigureCaption { font-family: sans-serif; text-align: center; }
+
+#TopBar_bl { width: 100%; height: 60px; }
+
+#TopBar_br { width: 100%; height: 60px; }
+
+#TopBar_tl { margin-left: -110px; margin-right: -100px; height: 60px; }
+
+#TopBar_tr { width: 100%; height: 60px; }
+
+#TopBar { min-width: 700px; padding: 25px 100px 10px; margin-bottom: 25px; =
+clear: both; border-bottom: 1px solid rgb(210, 221, 229); border-radius: 3p=
+x; background: linear-gradient(rgb(255, 255, 255) 0%, rgb(226, 239, 249) 10=
+0%); }
+
+#TopBar_left { position: absolute; padding-top: 30px; padding-right: 30px; =
+padding-left: 30px; text-align: left; font: bold 20px / 20px Arial, Helveti=
+ca, sans-serif; color: rgb(51, 51, 51); }
+
+#TopBar_right { line-height: 12px; float: right; padding-top: 10px; padding=
+-right: 30px; text-align: left; }
+
+@media print {
+  #BreadCrumbs, #Download { display: none; }
+}
+
+@media print {
+  #TopBar_right { display: none; }
+}
+
+#TopBar_right a { font-size: 10px; margin: 3px; padding: 0px; }
+
+#BreadCrumbs { padding: 15px 5px 0.5em 0px; font-family: sans-serif; float:=
+ right; }
+
+#BreadCrumbs a { color: rgb(9, 86, 157); }
+
+#BreadCrumbs a:visited, #BreadCrumbs a:link { text-decoration: none; }
+
+#BreadCrumbs a:hover, #BreadCrumbs a:active { text-decoration: underline; }
+
+#PageTitle { margin: 0px 5px 0.5em 0px; color: rgb(249, 0, 0); }
+
+#PageContent { margin: 0px 5px 0px 20px; }
+
+.LeftBar_shown { width: 13em; float: left; }
+
+@media print {
+  .LeftBar_shown { display: none; }
+}
+
+.LeftBar_hidden { display: none; }
+
+#Footer { padding-top: 10px; padding-left: 10px; margin-right: 10px; }
+
+.footertext { font-size: 10px; font-family: sans-serif; margin-top: 1px; }
+
+.NavBit { padding: 15px 5px 0.5em 0px; font-family: sans-serif; }
+
+@media print {
+  .NavBit { display: none; }
+}
+
+#TagNotes { text-align: right; }
+
+@media print {
+  #TagNotes a:visited, #TagNotes a:link { color: rgb(53, 85, 107); text-dec=
+oration: none; }
+}
+
+#Contents a, .NavBit a, #TagNotes a { color: rgb(9, 86, 157); }
+
+#TagNotes a:visited, #TagNotes a:link, #Contents a:visited, #Contents a:lin=
+k, .NavBit a:visited, .NavBit a:link { text-decoration: none; }
+
+#TagNotes a:hover, #TagNotes a:active, #Contents a:hover, #Contents a:activ=
+e, .NavBit a:hover, .NavBit a:active { text-decoration: underline; }
+
+#Contents { float: left; font-family: sans-serif; }
+
+@media print {
+  #Contents { display: none; }
+}
+
+@media screen {
+  div.PrintHeaders { display: none; }
+}
+
+.linkLESSON, .nolinkLESSON { margin-left: 0.5em; text-indent: -0.5em; }
+
+.linkAHEAD, .nolinkAHEAD, .linkQUESTIONS, .nolinkQUESTIONS { margin-left: 1=
+.5em; text-indent: -0.5em; }
+
+.linkBHEAD, .nolinkBHEAD { margin-left: 2.5em; text-indent: -0.5em; }
+
+.linkCHEAD, .nolinkCHEAD { margin-left: 3.5em; text-indent: -0.5em; }
+
+.nolinkLESSON, .nolinkAHEAD, .nolinkBHEAD, .nolinkCHEAD, .nolinkQUESTIONS {=
+ font-weight: bold; color: rgb(51, 51, 51); }
+
+.MainFlow_indented { margin-right: 10px; margin-left: 15em; margin-bottom: =
+2em; }
+
+.MainFlow_wide { margin-right: 10px; margin-left: 10px; margin-bottom: 2em;=
+ }
+
+@media print {
+  .MainFlow_indented, .MainFlow_wide { padding-top: 0px; margin-top: 10px; =
+margin-right: 10px; margin-left: 0px; }
+}
+
+h1, h2, h3, h4, h5 { color: rgb(51, 51, 51); }
+
+h1 { font-weight: bold; font-size: 20px; }
+
+h2 { font-weight: bold; font-size: 17px; }
+
+h3 { font-weight: bold; font-size: 14px; }
+
+h4 { font-size: 15px; }
+
+h5 { font-size: 12px; }
+
+#ToggleLeft { display: none; }
+
+.note { margin: 0px 30px; }
+
+.codeblock { margin: 0px 30px; font-size: 12px; font-family: Monaco, Courie=
+r, "Courier New"; }
+
+.tocli { list-style-type: none; }
+
+.betadraft { color: red; }
+------MultipartBoundary--N1AXX6FN78eH4S5HPUCXwmHktWoXZX3JkAtJn8x9aA----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://docs.oracle.com/javase/tutorial/images/oracle-java-logo.png
+
+iVBORw0KGgoAAAANSUhEUgAAAOIAAAApCAMAAAAf4QWSAAAACXBIWXMAAAsTAAALEwEAmpwYAAAK
+T2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AU
+kSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXX
+Pues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgAB
+eNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAt
+AGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3
+AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dX
+Lh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+
+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk
+5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd
+0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA
+4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzA
+BhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/ph
+CJ7BKLyBCQRByAgTYSHaiAFiilgjjggXmYX4IcFIBBKLJCDJiBRRIkuRNUgxUopUIFVIHfI9cgI5
+h1xGupE7yAAygvyGvEcxlIGyUT3UDLVDuag3GoRGogvQZHQxmo8WoJvQcrQaPYw2oefQq2gP2o8+
+Q8cwwOgYBzPEbDAuxsNCsTgsCZNjy7EirAyrxhqwVqwDu4n1Y8+xdwQSgUXACTYEd0IgYR5BSFhM
+WE7YSKggHCQ0EdoJNwkDhFHCJyKTqEu0JroR+cQYYjIxh1hILCPWEo8TLxB7iEPENyQSiUMyJ7mQ
+AkmxpFTSEtJG0m5SI+ksqZs0SBojk8naZGuyBzmULCAryIXkneTD5DPkG+Qh8lsKnWJAcaT4U+Io
+UspqShnlEOU05QZlmDJBVaOaUt2ooVQRNY9aQq2htlKvUYeoEzR1mjnNgxZJS6WtopXTGmgXaPdp
+r+h0uhHdlR5Ol9BX0svpR+iX6AP0dwwNhhWDx4hnKBmbGAcYZxl3GK+YTKYZ04sZx1QwNzHrmOeZ
+D5lvVVgqtip8FZHKCpVKlSaVGyovVKmqpqreqgtV81XLVI+pXlN9rkZVM1PjqQnUlqtVqp1Q61Mb
+U2epO6iHqmeob1Q/pH5Z/YkGWcNMw09DpFGgsV/jvMYgC2MZs3gsIWsNq4Z1gTXEJrHN2Xx2KruY
+/R27iz2qqaE5QzNKM1ezUvOUZj8H45hx+Jx0TgnnKKeX836K3hTvKeIpG6Y0TLkxZVxrqpaXllir
+SKtRq0frvTau7aedpr1Fu1n7gQ5Bx0onXCdHZ4/OBZ3nU9lT3acKpxZNPTr1ri6qa6UbobtEd79u
+p+6Ynr5egJ5Mb6feeb3n+hx9L/1U/W36p/VHDFgGswwkBtsMzhg8xTVxbzwdL8fb8VFDXcNAQ6Vh
+lWGX4YSRudE8o9VGjUYPjGnGXOMk423GbcajJgYmISZLTepN7ppSTbmmKaY7TDtMx83MzaLN1pk1
+mz0x1zLnm+eb15vft2BaeFostqi2uGVJsuRaplnutrxuhVo5WaVYVVpds0atna0l1rutu6cRp7lO
+k06rntZnw7Dxtsm2qbcZsOXYBtuutm22fWFnYhdnt8Wuw+6TvZN9un2N/T0HDYfZDqsdWh1+c7Ry
+FDpWOt6azpzuP33F9JbpL2dYzxDP2DPjthPLKcRpnVOb00dnF2e5c4PziIuJS4LLLpc+Lpsbxt3I
+veRKdPVxXeF60vWdm7Obwu2o26/uNu5p7ofcn8w0nymeWTNz0MPIQ+BR5dE/C5+VMGvfrH5PQ0+B
+Z7XnIy9jL5FXrdewt6V3qvdh7xc+9j5yn+M+4zw33jLeWV/MN8C3yLfLT8Nvnl+F30N/I/9k/3r/
+0QCngCUBZwOJgUGBWwL7+Hp8Ib+OPzrbZfay2e1BjKC5QRVBj4KtguXBrSFoyOyQrSH355jOkc5p
+DoVQfujW0Adh5mGLw34MJ4WHhVeGP45wiFga0TGXNXfR3ENz30T6RJZE3ptnMU85ry1KNSo+qi5q
+PNo3ujS6P8YuZlnM1VidWElsSxw5LiquNm5svt/87fOH4p3iC+N7F5gvyF1weaHOwvSFpxapLhIs
+OpZATIhOOJTwQRAqqBaMJfITdyWOCnnCHcJnIi/RNtGI2ENcKh5O8kgqTXqS7JG8NXkkxTOlLOW5
+hCepkLxMDUzdmzqeFpp2IG0yPTq9MYOSkZBxQqohTZO2Z+pn5mZ2y6xlhbL+xW6Lty8elQfJa7OQ
+rAVZLQq2QqboVFoo1yoHsmdlV2a/zYnKOZarnivN7cyzytuQN5zvn//tEsIS4ZK2pYZLVy0dWOa9
+rGo5sjxxedsK4xUFK4ZWBqw8uIq2Km3VT6vtV5eufr0mek1rgV7ByoLBtQFr6wtVCuWFfevc1+1d
+T1gvWd+1YfqGnRs+FYmKrhTbF5cVf9go3HjlG4dvyr+Z3JS0qavEuWTPZtJm6ebeLZ5bDpaql+aX
+Dm4N2dq0Dd9WtO319kXbL5fNKNu7g7ZDuaO/PLi8ZafJzs07P1SkVPRU+lQ27tLdtWHX+G7R7ht7
+vPY07NXbW7z3/T7JvttVAVVN1WbVZftJ+7P3P66Jqun4lvttXa1ObXHtxwPSA/0HIw6217nU1R3S
+PVRSj9Yr60cOxx++/p3vdy0NNg1VjZzG4iNwRHnk6fcJ3/ceDTradox7rOEH0x92HWcdL2pCmvKa
+RptTmvtbYlu6T8w+0dbq3nr8R9sfD5w0PFl5SvNUyWna6YLTk2fyz4ydlZ19fi753GDborZ752PO
+32oPb++6EHTh0kX/i+c7vDvOXPK4dPKy2+UTV7hXmq86X23qdOo8/pPTT8e7nLuarrlca7nuer21
+e2b36RueN87d9L158Rb/1tWeOT3dvfN6b/fF9/XfFt1+cif9zsu72Xcn7q28T7xf9EDtQdlD3YfV
+P1v+3Njv3H9qwHeg89HcR/cGhYPP/pH1jw9DBY+Zj8uGDYbrnjg+OTniP3L96fynQ89kzyaeF/6i
+/suuFxYvfvjV69fO0ZjRoZfyl5O/bXyl/erA6xmv28bCxh6+yXgzMV70VvvtwXfcdx3vo98PT+R8
+IH8o/2j5sfVT0Kf7kxmTk/8EA5jz/GMzLdsAAAAEZ0FNQQAAsY58+1GTAAAAIGNIUk0AAHolAACA
+gwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAMAUExURf///+0gJPNmafBCRe4sMP3j5O3y
+9e4pLe4xNPaLje0lKUx8nbPI1lmGpLnN2f7t7fH1912Jpu85Pdbi6fiUFUZ4mUd5mkR3mP7esf3l
+5fBGSe0iJvJhZEh6m4Gjuv/6+vNqbPeJAI2swOju8uHp7/ijpfR5fPaSlPFRVN3m7f/+/vvOz/vC
+efzRmpWyxT5zlTZtkfrHyPmlO9Hd5vL1+PRydfX4+vr8/O81OP7z85q2yUF0l/WChFOCoEJ1l/iM
+BfJbXvmtTf3q6vvR0e8+QYqqv1aEos3a5PBARPBJTHmdtfmaI/z8/fzg4e4uMrHG1aG7zEp7nL3Q
+3KzC0sDS3XSZs+Xs8fmxs/7u2vj6+//68/7y4oamvMLU3vq0XPiur//8/HuetsXV4Nvk6/JdYH+i
+uaa+z8rY4uvw9EV4mZ65y/egovrFxvedn/R8fsPV3/vFgOfu8vebnf709FSCoXGYsfmeK5GvwviW
+GqnA0fn7/GGNqf739+0hJfzPlG6Vr+0jJ523yvFWWZizxs7b5PNucOPr8PzZ2v737fzMjXCXsEp8
+nMza49jj6vvJyvu8bfzb3G2UrvT2+P716Zq1yPq2YPq+v/eeoPV/gvFOUunv8/zf3/7+//39/vV+
+gf7+/q3E009+nvm4uf7qz/WEhvFMT//8+FqHpGWPq/rCw/WGif719virrZm0yPR3ed/n7fzV1vin
+qOju8/u+cf3+/oOku/q/wKe+z6O8zbbL2PNnajpwk/iPDGiRrMjX4f7w8PeWmFGAn7vO2u87P1B/
+n9Tg5/rDxP/9/fvP0Orw8/iZHu/09+Tr8P7///7v8PBDRvvIhWeQrP3q0e4tMfm7vP3kwq/F1Obt
+8ebt8nqete84PPzVof3bsJOww1eFozxxlPmvsPDw7fm2t//47/iRD/iOCP3n5/3ft/7w3tvl69zl
+6/JjZurv9F+Lp/NlaHectHyftz9zlnabs019nU1+nfvS0/mhMf3Yp2CLqPeYmv///pOxxOny+ujv
+8+nv8vmxVScVjXsAAAgXSURBVHja7JhpWBRXFoa/T5FGVhXpig2otCCkSTCCIGBARFBBQJpNUTAO
+QWVHCAmCIouIiqAOonFjRKNBBUWNGy6ooDGRxJiYaFwGZzJ5kmCGBGWcyehsP2i6m27c/mk/8/26
+de6te+5b59xTdQt44fXNDOi6flyp84i31+s84ms6j/iXqa/rOuJHC9fpOOESmyW6DSi7YrP+IYAP
+P9RVwhXrbSbMBNbd+scKHSX8ytlm9kysWDDhlq4G8cdL4xfIcHvqhFkPdZVw8KklwJXxr8l0dR/+
+9N74BcASmzU6W0sfXhnvPBOzLl2apbvvi/U2V4BXTr234qHORnGlzevA7VODb+tuFGcMXgPMmPq9
+8wrdZVy5cBaw5tQp7XqTcbd+rG4wzp4NrHP+fqHWqf+IuGbEc87lmzx8U99uSXzS9sgAoNZhSl+V
+vvCx91W75fKyqwGr1edw3OkjUQ726y876+fXX8uR2cHhm1STBvTz3bj//ccva+Z/bwHfLBz8lWbH
+XKE14/kIk92pofjlADxEGtabKap7RpJsNlM9pGV56iP1gvEHcr+mo7qbPebbi7qN8W8+6RP1oxm4
++HdnmWZNHWrxnFHcSJKGet0SkaS7I+BhQIquqpsNgrvvSckjybTuy2AJSYqUcxwE3iRHajiyJ8kC
+5SCHWtSl7XftdU1BUeVR24B1H+An5w8AoKp4Xna6NmJVVe9MQYfVrzJJ+qU+6Net4KOuJAf5wsOA
+ljuGKKxDtiSLVIuulZB6ZMFoxeUmklY7tigHozfEOpLu9hO7B/XzAM6c3Tu9lwUeCpfOc2npar/S
+RRj97V+vWS/tgTgg3el3+aVDjaMBY+mj6wBQLJWWI6NBej8/0n8+4JIT4WKagGARWWTW08WfDMmR
+8DCg5QP1fCb9arua/UnDlCJS0nWdSjJTY5laiGbu5K5+WgfCXgj3rRKauqKzLajiz/96Oy58nvnn
+ADy929QRA9+4J+8UBOFIEI7fGRUOAE4nhQsDsk56G63yFsThsA01joy0hT150wzaKRVittiAlo5q
+xuUFFF0GAEwUkTtljgVkfwBY3Fc7KbURk0mDH55p51yLXNR+OvLGjRuBke/m55cG+ueYfw4AxqPK
+1BGPO82/a9t42igxHW3nrDsAYG5ie0u0/zGX+vprk+St+tEXbCPiWlBE2ms58XAnv5ZpIH6XR3cP
+AJjjkMcpZ4A00vAAgAekaMtTEU+Q8Y6j1ZQy5LGQFSXm6RFhYRGxZeYlY7Z2W++3tmiXm/mdFqGo
+KrVuzQAqdguB3XZPsZGLotlMy9HaPvqQdjIDWn4yrHaYQhP7kr/IuvPyawBmg8iiOcB0MgBPQ5RJ
+NMu2aO3jA5nbWKFlCxXH9VJRo7KESiBJbN0A1HsJhd32CLHRZEXTnZYTtV0sI5NlBrR84OvjJ5FI
+JBLJFwVk3moACA4hlwEA3iL5PlBHOjwV8aKfJqLdE3JVKhjf/balomLA5rbGan/TKsDNaXexZkXV
+n29cvc8r0RMo7rSOAUzF8skAtpZEXKuO6TTqHi8h39LycHEXWQcDWjriQF/lmixTAUBmRbq/o3wS
+IVvwMRUZ/MRELSKn/Gyl0sYnnXQb8zvl271aW7O2y8XbF0lHwLyw2k3jvThmn8m4e4LYy8ITcNtt
+PVAfUqFdH6gfen6UtyD3UiK6kj5aHlIsabl8WNdeNIsnSb0QA6s9ytDZ22VmZmZmpqblkVYw0yPr
+noq4lyx69vN7VVRs9fHKytDqJpf/jAXGlrhpvvqjO8adX5pu3uSV6AkgWyxPr9rtHQPY1oz7LWd+
+eZJcibinK9l66PIu0kH2jqLcLHYlGfCJInC+N0mfWh+1hJuOZeTNtU9DnEhFAX426Qc9vm+oRc0I
+hAlyUwBRXoIngHS5uLBtlTgMkHrX1AMIEysRZVak5V71z09Zyi6SR+GhrKh788hNCgbXPIoOYEiI
+CtHdbK2IHLRjmCZimtb+Zlq/ZyQ0zZrWFtUyoCWjPDb81V4QD8FTmPRvAJ91Iba0izs8hYH6yC0V
+Irf1RMSQZpLu8Sf6KHQigF3PW4UIO0PSfQMAbFDEYnWynZ2dnZ1dagjpioMkKemj1C/7L+4km4er
+LH1+7u8bQDLER+moT/zRxyPGeo1KPGdSU5NlPeqkSURvUSxM/Fs6EJTUaeEJADHiVhMhGwgqFbdv
+BhI65J1KRKx10Kx1NLSXAR4hZPd7ccdVsiAZODNF+Umj0D9JbsBBvZ4TnMWbmnN+hx98eloG+fae
+onENZblIMPYvXdT+25eBj0xto7u2pzJ1h4pNMhCX2DmwsvBLIUuoBIAmi/OdnRcAOHl3lob+Mcva
+Sz5ZNWdt6i5DddcGw1cDPRHh2ExyY+1O0nBPjwUtDiCbL2P5SHe1s4bPRWww7MmzH8Ccgw5qVsOP
+ewNMcAo0LRlTBQCH3SoqolU9xQ2KxtZA8UB9bH20SrhzxyRMerISAKJaO8UdAKAfKR538t67ZaeF
+4hfzGKxf88av9dGa1m0D6mND911HLgAgOl/4fRBQVW5cHdeCTy9sBgDUl5cnAADcyq5Nc8mFrbnb
+i4kYXVg6yWhgacyj0OqGprCwJuPw4/ukRzo6/HNehX7OZ10fNK3eS1/q3xlV+m2N05KyY+beiIyM
+DOyIkSZNK7OtyE2IlQYqyk6ScO7uS//XRt/lwtslGSM2J3yacMjWvNE41P/X+/5hY7o63Rbdy3n5
+f0wFXXeJMD4W6lnp5JSd7eR5rKHMNlfVaz7tMP4vdf1vAHDnUH1nC6keAAAAAElFTkSuQmCC
+
+------MultipartBoundary--N1AXX6FN78eH4S5HPUCXwmHktWoXZX3JkAtJn8x9aA------
