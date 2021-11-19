@@ -53,6 +53,10 @@ question to ask)
 - 124 between December 1st and March 1st
 - Review how to generate the hashCode (you can see how IntelliJ implements it using the Objects.hash method if a class 
 has for instance a String and an integer as fields). I didn't remember this when I went to go use it.
+- 297 try implementing
+- 65 try implementing
+- 621 try implementing
+- 689 try implementing
 
 Notes:
 p45 is really good practice in coming up with the corner cases *first* before running through the algorithm. 
