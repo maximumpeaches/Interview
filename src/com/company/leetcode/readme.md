@@ -3,7 +3,7 @@ Below is a list of problems from Leetcode or topics which I'd like to review. Mo
 which means I should come back to them not before, and ideally at, that date (I leave a date in the future so I am 
 taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distributed_practice)).
 
-- 560 really good to practice
+
 - [Segment tree](https://leetcode.com/tag/segment-tree/) actually has a number of problems related to it.
 - need to figure out how to construct union-find data structure. To do so see: https://leetcode.com/tag/union-find/
 - after/on Aug 31 do other LCA of binary tree problems. One every other day or so. After you've done them a couple 
@@ -14,6 +14,7 @@ also use that link to find the similar problems.
 - Practice 323 sometime after Sept 3rd or so.
 - p1143 practice after Sept 4th.
 - p41 practice after Sept 7th
+- 560 really good to practice
 - p99 really good one. on/after Sept 9th
 - p29 really good one. on/after Sept 9th. See readme.md first.
 - 856 on/after Sept 10th
