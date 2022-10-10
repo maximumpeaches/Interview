@@ -5,7 +5,6 @@ taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distrib
 
 
 - [Segment tree](https://leetcode.com/tag/segment-tree/) actually has a number of problems related to it.
-- need to figure out how to construct union-find data structure. To do so see: https://leetcode.com/tag/union-find/
 - after/on Aug 31 do other LCA of binary tree problems. One every other day or so. After you've done them a couple 
 ways, review the Solution tab here: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ You can 
 also use that link to find the similar problems.
