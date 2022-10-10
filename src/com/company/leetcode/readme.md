@@ -9,6 +9,9 @@ taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distrib
 - after/on Aug 31 do other LCA of binary tree problems. One every other day or so. After you've done them a couple 
 ways, review the Solution tab here: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ You can 
 also use that link to find the similar problems.
+- 128 try it
+- 200 try it
+- 785 try it
 - 287 around Sept 1st. Try reviewing conceptually first.
 - 581 on/after Sept 1 (see readme.md file)
 - Practice 323 sometime after Sept 3rd or so.
