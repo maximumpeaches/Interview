@@ -50,7 +50,6 @@ question to ask)
 - 523 Oct 20
 - 72 November 22nd
 - 981 November 20th
-- 198 on/after Nov 24
 - 124 between December 1st and March 1st
 - Review how to generate the hashCode (you can see how IntelliJ implements it using the Objects.hash method if a class 
 has for instance a String and an integer as fields). I didn't remember this when I went to go use it.
