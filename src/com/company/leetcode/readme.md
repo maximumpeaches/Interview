@@ -11,7 +11,6 @@ also use that link to find the similar problems.
 - 200 try implementing
 - 128 try it
 - 785 try it
-- 287 around Sept 1st. Try reviewing conceptually first.
 - 581 on/after Sept 1 (see readme.md file)
 - Practice 323 sometime after Sept 3rd or so.
 - p1143 practice after Sept 4th.
