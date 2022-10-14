@@ -1,3 +1,6 @@
+# October 13th 2021
+I was able to solve it, but not very quickly. Very good one to practice because you can get better at it. Most of the implementation is stuff that you'd improve at with practice.
+
 I would suggest viewing the hints.md file *after* you've solved for the provided test case and *before* submitting.
 One of the test cases causes a TLE, and you'll just see what I mean if you look at the hints.md file.
 
