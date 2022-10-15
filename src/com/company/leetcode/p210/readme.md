@@ -1,3 +1,6 @@
+# Oct 14 2022
+Forgot the solution. Good to review this one.
+
 # August 31st 2021
 This problem requires topological sort, which is used in some other problems too.
 There are two ways to solve this problem, both discussed in the Solutions tab.
