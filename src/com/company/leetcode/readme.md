@@ -9,6 +9,7 @@ taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distrib
 ways, review the Solution tab here: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ You can 
 also use that link to find the similar problems.
 - 200 try implementing
+- 684 good to try implementing with union find
 - 128 try it
 - 785 try it
 - 581 on/after Sept 1 (see readme.md file)
