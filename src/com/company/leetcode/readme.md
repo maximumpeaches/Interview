@@ -3,6 +3,8 @@ Below is a list of problems from Leetcode or topics which I'd like to review. Mo
 which means I should come back to them not before, and ideally at, that date (I leave a date in the future so I am 
 taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distributed_practice)).
 
+- try 261 conceptually, but give it serious thought first
+
 
 - [Segment tree](https://leetcode.com/tag/segment-tree/) actually has a number of problems related to it.
 - after/on Aug 31 do other LCA of binary tree problems. One every other day or so. After you've done them a couple 
