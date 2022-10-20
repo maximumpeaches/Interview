@@ -18,7 +18,6 @@ also use that link to find the similar problems.
 - Practice 323 sometime after Sept 3rd or so.
 - p1143 practice after Sept 4th.
 - p41 practice after Sept 7th
-- 560 really good to practice
 - p99 really good one. on/after Sept 9th
 - p29 really good one. on/after Sept 9th. See readme.md first.
 - 856 on/after Sept 10th
