@@ -4,6 +4,7 @@ which means I should come back to them not before, and ideally at, that date (I 
 taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distributed_practice)).
 
 - try 261 conceptually, but give it serious thought first
+- 1584 need to implement the Solution tab. I totally didn't know the answer to this one.
 
 
 - [Segment tree](https://leetcode.com/tag/segment-tree/) actually has a number of problems related to it.
