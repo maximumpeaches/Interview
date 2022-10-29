@@ -1,4 +1,7 @@
 # Should review
+
+NeetCode.io is a good collection of problems to try. It can help to study a couple of the same type of problem in a row, which NeetCode provides, so you can see the pattern.
+
 Below is a list of problems from Leetcode or topics which I'd like to review. Most of them have an associated date, 
 which means I should come back to them not before, and ideally at, that date (I leave a date in the future so I am 
 taking advantage of [distributed learning](https://en.wikipedia.org/wiki/Distributed_practice)).
